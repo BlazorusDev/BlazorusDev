@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Programmer</h3>
 <img align="right" alt="Coding" widt="400" src="https://64.media.tumblr.com/a7c6165cdf20a3eb0251bcd33463860a/2d53549d34336171-59/s540x810/792cf7e5926c27307a9a60d6f0e15cea4a612d34.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit-mehra&label=Profile%20views&color=0e75b6&style=flat" alt="mohit-mehra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BlazorusDev&label=Profile%20views&color=0e75b6&style=flat" alt="mohit-mehra" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
 
@@ -59,3 +59,8 @@
 ###
 ![gitartwork](gitartwork.svg)
 ###
+
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/BlazorusDev/count.svg" />
+</p>
